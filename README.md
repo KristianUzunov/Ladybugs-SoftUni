@@ -1,5 +1,22 @@
 # Ladybug-SoftUni
 The worst thing ever
+using Microsoft.Win32.SafeHandles;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data.SqlTypes;
+using System.Diagnostics.CodeAnalysis;
+using System.Diagnostics.SymbolStore;
+using System.Globalization;
+using System.IO;
+using System.Linq;
+using System.Net.Mail;
+using System.Numerics;
+using System.Resources;
+using System.Runtime.ExceptionServices;
+using System.Security.Cryptography;
+using System.Xml.Schema;
+using System.Text.RegularExpressions;
 namespace _0._2Nums1to10
 {
     internal class Program
